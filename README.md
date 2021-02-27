@@ -26,7 +26,7 @@ ___
 * ## :paperclip: [Atach](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/Atach "Atach")
 ---
 * ## :clipboard: [Blog](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/Blog "Blog")
-    * ### :hourglass_flowing_sand: [C0.1_IntegrarEquiposDeTrabajo](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/C0.1_IntegrarEquiposdeTrabajo.pdf "C0.1_IntegrarEquiposDeTrabajo")
+    * ### :hourglass_flowing_sand: [C0.1_IntegrarEquiposDeTrabajo](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/C0.1_IntegrarEquiposdeTrabajo_CisnerosAcostaJoseEnrique.pdf "C0.1_IntegrarEquiposDeTrabajo")
 ---
 * ## :bar_chart: [Diagrams](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/Diagrams "Diagrams")
 ---
