@@ -27,7 +27,7 @@ ___
 ---
 * ## :clipboard: [Blog](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/Blog "Blog")
     * ### :hourglass_flowing_sand: [C0.1_IntegrarEquiposDeTrabajo](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/C0.1_IntegrarEquiposdeTrabajo_CisnerosAcostaJoseEnrique.pdf "C0.1_IntegrarEquiposDeTrabajo")
-    ** ### :hourglass_flowing_sand: [C0.2_TipoDeSistemaInformacion](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/C0.2_TipoDeSistemaDeInformacion_CisnerosAcosta.md "C0.2_TipoDeSistemaInformacion")
+    * ### :hourglass_flowing_sand: [C0.2_TipoDeSistemaInformacion](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/C0.2_TipoDeSistemaDeInformacion_CisnerosAcosta.md "C0.2_TipoDeSistemaInformacion")
 ---
 * ## :bar_chart: [Diagrams](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/Diagrams "Diagrams")
 ---
