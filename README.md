@@ -32,7 +32,7 @@ ___
     * ### :trophy: [A0.1DataCollectingThruInterview](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/A0.1DataCollectionThruInterview.md "A0.1DataCollectingThruInterview")
 ---
 * ## :bar_chart: [Diagrams](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/Diagrams "Diagrams")
-    * * ### :bar_chart: [C0.3](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/C03.DiagramaDeFlujoDeProceso.png "C0.3")
+    * ### :bar_chart: [C0.3](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/C03.DiagramaDeFlujoDeProceso.png "C0.3")
     * ### :bar_chart: [AO.1](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/A0.1_Diagrama.png "A0.1")
     * ### :bar_chart: [Context](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/Context.drawio.png "Context")
 ---
