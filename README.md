@@ -30,11 +30,13 @@ ___
     * ### :hourglass_flowing_sand: [C0.2_TipoDeSistemaInformacion](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/C0.2_TipoDeSistemaDeInformacion_CisnerosAcosta.md "C0.2_TipoDeSistemaInformacion")
     * ### :hourglass_flowing_sand: [C0.3DiagramaDeFlujoDeProceso](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/C0.3DiagramaDeFlujoDeProceso.md "C0.3DiagramaDeFlujoDeProceso")
     * ### :trophy: [A0.1DataCollectingByInterview](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/A0.1DataCollectingByInterview.md "A0.1DataCollectingByInterview")
+    * ### :trophy: [C1.1RetoEnClase](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/C1.1RetoEnClase.md "C1.1RetoEnClase")
 ---
 * ## :bar_chart: [Diagrams](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/Diagrams "Diagrams")
     * ### :bar_chart: [C0.3](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/C03.DiagramaDeFlujoDeProceso.png "C0.3")
     * ### :bar_chart: [AO.1](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/A0.1_Diagrama.png "A0.1")
     * ### :bar_chart: [Context](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/Context.drawio.png "Context")
+    * ### :bar_chart: [C1.1](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/C1.1.PNG "C1.1")
 ---
 * ## :open_file_folder: [Docs](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/Docs "Docs")
 ---
