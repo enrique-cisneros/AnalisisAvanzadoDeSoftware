@@ -36,7 +36,7 @@ ___
     * ### :bar_chart: [C0.3](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/C03.DiagramaDeFlujoDeProceso.png "C0.3")
     * ### :bar_chart: [AO.1](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/A0.1_Diagrama.png "A0.1")
     * ### :bar_chart: [Context](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/Context.drawio.png "Context")
-    * ### :bar_chart: [C1.1](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/C1.1.PNG "C1.1")
+    * ### :bar_chart: [C1.1](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/C1.1Bizagi.PNG "C1.1")
 ---
 * ## :open_file_folder: [Docs](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/Docs "Docs")
 ---
