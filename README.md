@@ -30,7 +30,9 @@ ___
     * ### :hourglass_flowing_sand: [C0.2_TipoDeSistemaInformacion](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/C0.2_TipoDeSistemaDeInformacion_CisnerosAcosta.md "C0.2_TipoDeSistemaInformacion")
     * ### :hourglass_flowing_sand: [C0.3DiagramaDeFlujoDeProceso](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/C0.3DiagramaDeFlujoDeProceso.md "C0.3DiagramaDeFlujoDeProceso")
     * ### :trophy: [A0.1DataCollectingByInterview](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/A0.1DataCollectingByInterview.md "A0.1DataCollectingByInterview")
-    * ### :trophy: [C1.1RetoEnClase](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/C1.1RetoEnClase.md "C1.1RetoEnClase")
+    * ### ⌛: [C1.1RetoEnClase](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/C1.1RetoEnClase.md "C1.1RetoEnClase")
+    * ### ⌛: [C1.2ActaConstitutiva](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/C1.2ActaConstitutiva.md "C1.2ActaConstitutiva")
+    * ### ⌛: [C1.3RequisitosDelSistema](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/C1.3RequisitosDelSistema.md "C1.3RequisitosDelSistema")
 ---
 * ## :bar_chart: [Diagrams](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/Diagrams "Diagrams")
     * ### :bar_chart: [C0.3](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/C03.DiagramaDeFlujoDeProceso.png "C0.3")
