@@ -33,6 +33,7 @@ ___
     * ### ⌛: [C1.1RetoEnClase](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/C1.1RetoEnClase.md "C1.1RetoEnClase")
     * ### ⌛: [C1.2ActaConstitutiva](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/C1.2ActaConstitutiva.md "C1.2ActaConstitutiva")
     * ### ⌛: [C1.3RequisitosDelSistema](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/C1.3RequisitosDelSistema.md "C1.3RequisitosDelSistema")
+    * ### ⌛: [C1.4UML](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/C1.4_UML_Casos_de_uso_secuencia_clases.md "C1.4CasosDeUso")
 ---
 * ## :bar_chart: [Diagrams](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/Diagrams "Diagrams")
     * ### :bar_chart: [C0.3](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/C03.DiagramaDeFlujoDeProceso.png "C0.3")
