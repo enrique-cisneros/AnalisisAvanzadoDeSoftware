@@ -47,5 +47,8 @@ ___
 ---
 * ## :framed_picture: [Img](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/Img "Img")
     * * ### :camera: [ImgC02](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Img/ImgC02CisnerosAcosta.png "ImgC02CisnerosAcosta")
+    * * ### :camera: [ActividadDiagrama](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Img/Actividad.drawio.png "Actividad")
+    * * ### :camera: [ClaseDiagrama](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Img/Clase.drawio.png "Clase")
+    * * ### :camera: [UsoDiagrama](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Img/Uso.drawio.png "Uso")
 ---
 * ##  :notebook_with_decorative_cover: [PDF](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/PDF "PDF")
