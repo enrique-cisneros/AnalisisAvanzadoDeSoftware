@@ -41,6 +41,9 @@ ___
     * ### :bar_chart: [AO.1](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/A0.1_Diagrama.png "A0.1")
     * ### :bar_chart: [Context](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/Context.drawio.png "Context")
     * ### :bar_chart: [C1.1](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/C1.1Bizagi.PNG "C1.1")
+    * ### :bar_chart: [C1.4 Uso](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/Uso.drawio.png "C1.4 Uso")
+    * ### :bar_chart: [C1.4 Secuencia](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/Secuencia.drawio.png "C1.4 Secuencia")
+    * ### :bar_chart: [C1.4 Clase](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/Clase.drawio.png "C1.4 Clase")
 ---
 * ## :open_file_folder: [Docs](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/Docs "Docs")
 ---
@@ -48,8 +51,5 @@ ___
 ---
 * ## :framed_picture: [Img](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/Img "Img")
     * * ### :camera: [ImgC02](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Img/ImgC02CisnerosAcosta.png "ImgC02CisnerosAcosta")
-    * * ### :camera: [ActividadDiagrama](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Img/Actividad.drawio.png "Actividad")
-    * * ### :camera: [ClaseDiagrama](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Img/Clase.drawio.png "Clase")
-    * * ### :camera: [UsoDiagrama](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Img/Uso.drawio.png "Uso")
 ---
 * ##  :notebook_with_decorative_cover: [PDF](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/PDF "PDF")
