@@ -41,7 +41,7 @@ ___
     * ### :bar_chart: [AO.1](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/A0.1_Diagrama.png "A0.1")
     * ### :bar_chart: [Context](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/Context.drawio.png "Context")
     * ### :bar_chart: [C1.1](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/C1.1Bizagi.PNG "C1.1")
-    * ### :bar_chart: [C1.4 Uso](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/Uso.drawio.png "C1.4 Uso")
+    * ### :bar_chart: [C1.4 Uso](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/DUso.drawio.png "C1.4 Uso")
     * ### :bar_chart: [C1.4 Secuencia](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/Secuencia.drawio.png "C1.4 Secuencia")
     * ### :bar_chart: [C1.4 Clase](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/Clase.drawio.png "C1.4 Clase")
 ---
