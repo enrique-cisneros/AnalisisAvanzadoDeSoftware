@@ -35,6 +35,7 @@ ___
     * ### ⌛: [C1.3RequisitosDelSistema](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/C1.3RequisitosDelSistema.md "C1.3RequisitosDelSistema")
     * ### ⌛: [C1.4UML](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/C1.4_UML_Casos_de_uso_secuencia_clases.md "C1.4CasosDeUso")
     * ### :trophy: [A1.0_ConsolidationofTheConstitutiveAct](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/A1.0_ConsolidationofTheConstitutiveAct.md "A1.0_ConsolidationofTheConstitutiveAct")
+    * ### ⌛: [C1.5UML](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/C1.5_UML_Estado_Componentes_Distribucion.md "C1.5Diagramas")
 ---
 * ## :bar_chart: [Diagrams](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/Diagrams "Diagrams")
     * ### :bar_chart: [C0.3](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/C03.DiagramaDeFlujoDeProceso.png "C0.3")
