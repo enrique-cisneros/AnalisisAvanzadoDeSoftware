@@ -41,6 +41,7 @@ ___
     * ### 🏆: [CA3.1](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/A3.1CisnerosAcostaHallucinate.pdf "A3.1")
     * ### 🏆: [CA3.2](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/A3.2_CisnerosAcosta_Hallucinate.md "A3.2")
     * ### 🏆: [CA3.3](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/A3.3_CisnerosAcosta_Hallucinate.md "A3.3")
+    * ### 🏆: [CA3.4](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/A3.4_JoseCisneros_Hallucinate.md "A3.4")
 ---
 * ## :bar_chart: [Diagrams](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/Diagrams "Diagrams")
     * ### :bar_chart: [C0.3](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Diagrams/C03.DiagramaDeFlujoDeProceso.png "C0.3")
